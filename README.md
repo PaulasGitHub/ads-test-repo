@@ -18,3 +18,12 @@ git commit -m "Add README.md to repo"
 
 git commit -m "Add new section to README.md" README.md
 ```
+
+
+## Git branch
+
+```
+git branch -v # Show branches
+git checkout master
+git checkout -b new_FeatureBranch
+```
